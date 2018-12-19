@@ -34,6 +34,7 @@ Existing Features:
 Index.html:
 Black Coffee Logo  - which acts as a link to the home page when the user clicks on it.
 Navigation Bar - allows users to clearly navigate to the different sections in the website. A underline text effect is implemented on mouse over as well as a fixed underline when the user is on a particular section. The underline effect works in conjuction with the scrollbar using bootstraps scrollspy feature. The underline effect is implemented using a separate css file called underline.css contained in the assets folder.
+Nav bar toggle - drop down links for viewing the website on mobile.
 A Enquiry button - allows users to completed a form entering their details for a booking or enquiry.
 Index.html#music - Embedded SoundCloud playlist & link to amazon.co.uk site where the album 'pieces of me' can be purchased.
 Index.html#video - Embedded videos fom YouTube that can be viewed in the browser window of the DJs live performances.
@@ -41,11 +42,17 @@ Index.html#gallery - Photos with external links to the respective photos that ha
 Index.html#tour - Buttons that can be clicked on that will bring the user to the respective webpage where they can purchase tickets for the concerts.
 Index.html#contact - A signup input form where the user can enter their e-mail details.
 Footer/Social Media Links - Links to the DJ's Instagram, Twitter, YouTube and Facebook accounts.
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
-Features Left to Implement
-Another feature idea
+ 
+
+Features Left to Implement:
+Future plans could include more video and music content for future releases, a separate news section for articles and press releases, links to soundcloud and itunes beside the social media links. A more advanced collapsed menu for viewing the website on mobile.
+
+
 Technologies Used
+Style.css: CSS stylesheet that contains the CSS development code.
+An Images folder containing all images used in the website.
+Links to Bootstrap 3.3.7, Font awesome, google fonts, jquery.
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
 JQuery
