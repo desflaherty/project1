@@ -19,11 +19,16 @@ view pictures of the artist to stay updated with his activity,
 make a booking request through the website to book the DJ,
 view contact information for his management if I work in the press industry or wish to have a direct contact method.
 
-A Mockup for the website was created using the balsamiq software tool. Mockups for the proposed sections can be found in teh project folder on github https://github.com/desflaherty/project1/tree/master/MockUp
+A Mockup for the website was created using the balsamiq software tool. Mockups for the proposed sections can be found in the project folder on github https://github.com/desflaherty/project1/tree/master/MockUp
 
 Features:
-Index.html - This is the landing page 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+Index.html - This is the home page for the website that provides links to the different sections in the website located on the navigation bar on the top right of the screen. A logo is used here as a home button. There is also an enquiry button that opens a modal form where a user can input their details for bookings or enquiries.
+About.html - A biography section about the DJ and his awards etc.
+Index.html#music - An embedded SoundCloud playlist where the user can listen to a sample of his Album in the browser window or link to SoundCloud as well as a link to Amazon.co.uk where the album can be purchased.
+Index.html#video - Embedded videos from YouTube of live DJ sets.
+Index.html#gallery - A series of photographs that link to the respective photo on his Instagram account.
+Index.html#tour -Upcoming tour dates and location as well as links to the websites where tickets can be purchased.
+Index.html#contact - Contact information for the DJs management company as well as a sign up form for his newsletter to receive the latest news.
 
 Existing Features
 Feature 1 - allows users X to achieve Y, by having them fill out Z
