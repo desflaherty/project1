@@ -19,11 +19,10 @@ view pictures of the artist to stay updated with his activity,
 make a booking request through the website to book the DJ,
 view contact information for his management if I work in the press industry or wish to have a direct contact method.
 
-A Mockup for the website was created using the balsamiq software tool. Mockups for the proposed sections can be found
+A Mockup for the website was created using the balsamiq software tool. Mockups for the proposed sections can be found in teh project folder on github https://github.com/desflaherty/project1/tree/master/MockUp
 
-
-
-Features
+Features:
+Index.html - This is the landing page 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
 Existing Features
