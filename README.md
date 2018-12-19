@@ -43,17 +43,24 @@ Index.html#tour - Buttons that can be clicked on that will bring the user to the
 Index.html#contact - A signup input form where the user can enter their e-mail details.
 Footer/Social Media Links - Links to the DJ's Instagram, Twitter, YouTube and Facebook accounts.
 
- 
-
 Features Left to Implement:
 Future plans could include more video and music content for future releases, a separate news section for articles and press releases, links to soundcloud and itunes beside the social media links. A more advanced collapsed menu for viewing the website on mobile.
 
 
-Technologies Used
-Style.css: CSS stylesheet that contains the CSS development code.
-An Images folder containing all images used in the website.
-Links to Bootstrap 3.3.7, Font awesome, google fonts, jquery.
+Technologies Used:
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+
+HTML5
+CSS
+Bootstrap 3.3.7
+Javascript
+Font Awesome
+Google Fonts
+JQuery
+Photoshop -  Trial version used to create the Logo used on the site from a photo sourced online. https://www.photoshop.com
+DownloadGram - Third party software used to download photos from Instagram for use in the gallery section on the website https://downloadgram.com/
+
+
 
 JQuery
 The project uses JQuery to simplify DOM manipulation.
