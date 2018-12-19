@@ -4,13 +4,24 @@ I chose to build a website for a well known DJ called 'Black Coffee'. He is a So
 
 UX
 
-A Mockup was created using the balsamiq software tool.
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+Strategy: To create an online presence for the DJ as he currently does not have a dedicated website. There is a presence already on Facebook but this is to generic - a custom site would add value. 
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+The website would be designed for dance music fans or for dance music promoters who would be interested in finding out more about 'Black Coffee' or booking him for an event as well as his existing fan base.They would need to be able to view and buy his material and find out about tour dates and his activity on social media as well as a method to contact him. 
+The site built enables visitors to listen to his latest album as well as providing a link to where they can purchase the album on amazon.co.uk. Visitors can also view a schedule of his upcoming tour dates and link to the respective website to purchase a ticket for these. The site provides links to his social media accounts on Facebook,Instagram and Twitter as well as YouTube videos. Visitors can also sign up to a mailing list and complete a booking request form. Management contact details are also provided.
 
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+User Stories:
+As a dance music fan or promoter I would want to: 
+listen to a latest album so that I can then purchase it if I like the music,
+read about the DJ to become more interested in him as an artist,
+view videos of his live performances so I can decide if I would like to go to his concert,
+view his upcoming tour dates and link to a website where I can buy a ticket for a show,
+view pictures of the artist to stay updated with his activity,
+make a booking request through the website to book the DJ,
+view contact information for his management if I work in the press industry or wish to have a direct contact method.
+
+A Mockup for the website was created using the balsamiq software tool. Mockups for the proposed sections can be found
+
+
 
 Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
