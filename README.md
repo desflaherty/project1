@@ -1,9 +1,10 @@
-Your Project's Name
-One or two paragraphs providing an overview of your project.
+Project Name: DJ Black Coffee
 
-Essentially, this part is your sales pitch.
+I chose to build a website for a well known DJ called 'Black Coffee'. He is a South African DJ, record producer and singer-songwriter.He has released 5 albums to date and won the "Breakthrough DJ of the Year" award at the DJ Awards in Ibiza in 2015. He has a large following on social media but does not have a dedicated website. The creation of a website would promote his music and also increase his exposure on social media as well as providing a method to contact the artist or his management companies.
 
 UX
+
+A Mockup was created using the balsamiq software tool.
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
