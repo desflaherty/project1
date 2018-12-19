@@ -30,11 +30,17 @@ Index.html#gallery - A series of photographs that link to the respective photo o
 Index.html#tour -Upcoming tour dates and location as well as links to the websites where tickets can be purchased.
 Index.html#contact - Contact information for the DJs management company as well as a sign up form for his newsletter to receive the latest news.
 
-Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
+Existing Features:
+Index.html:
+Black Coffee Logo  - which acts as a link to the home page when the user clicks on it.
+Navigation Bar - allows users to clearly navigate to the different sections in the website. A underline text effect is implemented on mouse over as well as a fixed underline when the user is on a particular section. The underline effect works in conjuction with the scrollbar using bootstraps scrollspy feature. The underline effect is implemented using a separate css file called underline.css contained in the assets folder.
+A Enquiry button - allows users to completed a form entering their details for a booking or enquiry.
+Index.html#music - Embedded SoundCloud playlist & link to amazon.co.uk site where the album 'pieces of me' can be purchased.
+Index.html#video - Embedded videos fom YouTube that can be viewed in the browser window of the DJs live performances.
+Index.html#gallery - Photos with external links to the respective photos that have been uploaded to by the DJ to his Instagram webpage.
+Index.html#tour - Buttons that can be clicked on that will bring the user to the respective webpage where they can purchase tickets for the concerts.
+Index.html#contact - A signup input form where the user can enter their e-mail details.
+Footer/Social Media Links - Links to the DJ's Instagram, Twitter, YouTube and Facebook accounts.
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 Features Left to Implement
