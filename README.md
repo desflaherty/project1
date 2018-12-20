@@ -30,7 +30,7 @@ Index.html#gallery - A series of photographs that link to the respective photo o
 Index.html#tour -Upcoming tour dates and location as well as links to the websites where tickets can be purchased.
 Index.html#contact - Contact information for the DJs management company as well as a sign up form for his newsletter to receive the latest news.
 
-Existing Features:
+*Existing Features:*
 Index.html:
 Black Coffee Logo  - which acts as a link to the home page when the user clicks on it.
 Navigation Bar - allows users to clearly navigate to the different sections in the website. A underline text effect is implemented on mouse over as well as a fixed underline when the user is on a particular section. The underline effect works in conjuction with the scrollbar using bootstraps scrollspy feature. The underline effect is implemented using a separate css file called underline.css contained in the assets folder.
@@ -50,14 +50,14 @@ Future plans could include more video and music content for future releases, a s
 Technologies Used:
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-HTML5
-CSS
-Bootstrap 3.3.7
-Javascript
-Font Awesome
+HTML5 -The webs core markup language used for creating content for the web. HTML5 is the 5th edition of the language.       https://www.w3.org/TR/html52/
+CSS - Used in two files style.css and underline.css. Style.css containes the stylesheet used to format the presentation of the website. The underline.css styelsheet controls the mouse over underline effect for the navigation items in the nav bar. https://www.w3.org/standards/webdesign/htmlcss
+Bootstrap 3.3.7 -An open source toolkit for developing with HTML, CSS and JS https://getbootstrap.com/
+Javascript -An object-oriented computer programming language commonly used to create interactive effects within web browsers. https://developer.mozilla.org/bm/docs/Web/JavaScript
+Font Awesome - 
 Google Fonts
 JQuery
-Photoshop -  Trial version used to create the Logo used on the site from a photo sourced online. https://www.photoshop.com
+Photoshop -  Trial version used to create the Black Coffee Logo used on the site - cropped from a photo sourced online. https://www.photoshop.com
 DownloadGram - Third party software used to download photos from Instagram for use in the gallery section on the website https://downloadgram.com/
 
 
