@@ -66,7 +66,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 Both index.html & about.html were checked with HTML validator https://validator.w3.org/#validate_by_input to remove as many warnings as possible, all errors were removed. The CSS style sheet was checked using http://csslint.net/ There were no errors but there are some warning messages returned.
 
 Responsinator was used to check responsiveness of different devices - https://www.responsinator.com as well as google chrome developer.
-Devices tested on include: Galaxy S5, iPhone 5/SE, iPhone 6/7/8, iPhone 6/7/8 Plus, iPhone X, iPad, iPad Pro, Desktop PC. Browsers tested were Google Chrome and Internet Explorer.
+Devices tested on include: Galaxy S5, iPhone 5/SE, iPhone 6/7/8, iPhone 6/7/8 Plus, iPhone X, iPad, iPad Pro, Desktop PC. Browsers tested were Google Chrome,Internet Explorer and Firefox. Also the Safari browser on iPhone.
 
 *Index.html:*
 The 'Enquiry' button was clicked on to ensure it opens and displays a form. When an empty form is submitted an error message is displayed correctly. An invalid email & telephone input displays an error as well as any blank fields not filled in. When the form is correctly populated and submitted a response is correctly displayed.
@@ -103,9 +103,6 @@ When the 'enquiry' button is clicked the modal that opens causes the navbar to m
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 Deployment
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
