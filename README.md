@@ -62,22 +62,45 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 
 **Testing**
+
 Both index.html & about.html were checked with HTML validator https://validator.w3.org/#validate_by_input to remove as many warnings as possible, all errors were removed. The CSS style sheet was checked using http://csslint.net/ There were no errors but there are some warning messages returned.
 
 Responsinator was used to check responsiveness of different devices - https://www.responsinator.com as well as google chrome developer.
-Devices tested on include: Galaxy S5, iPhone 5/SE, iPhone 6/7/8, iPhone 6/7/8 Plus, iPhone X, iPad, iPad Pro, desktop PC.
+Devices tested on include: Galaxy S5, iPhone 5/SE, iPhone 6/7/8, iPhone 6/7/8 Plus, iPhone X, iPad, iPad Pro, Desktop PC. Browsers tested were Google Chrome and Internet Explorer.
 
 *Index.html:*
 The 'Enquiry' button was clicked on to ensure it opens and displays a form. When an empty form is submitted an error message is displayed correctly. An invalid email & telephone input displays an error as well as any blank fields not filled in. When the form is correctly populated and submitted a response is correctly displayed.
 
 The nanvigation links work as expected , the hover over generates a red underline effect to enhance the appearance of the links and usability and this line remains on the active link to show the user which section they are on. The underline updates according to the user scroll within the sections on the page. When the link is clicked the user is taken to the respective section. The logo acts a button to take the user to the index.html page.
 
+When viewed in a smaller device such as mobile the navigation menu collapses as expected to become a drop down menu represented by icons in the right of the top right of the screen.
 
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
+*About.html:*
+The text is scrollable and the background image stays in place. Tested on different divices the text is visiable and appears as expected.
+
+*Index.html#Music*
+The embedded SoundCloud audio plays as expected when the user clicks the play button. The pause also works. Tested on different devices the embedded music screen is responsive and can be viewed on smaller devices such as mobile. The button to purchase on amazon.co.uk takes the user to an external website on the album page on amazon.
+
+*Index.html#Video*
+The embedded Videos play in the browser window and are also responsive, they stack under each other for a smaller device view.
+
+*Index.html#Gallery*
+The gallery images are also responsive. There are two rows of 4 images on iPad and desktop , that stack on top of each other for smaller devices. Each image takes the user to the respective external image in Instagram.
+
+*Index.html#Tour*
+The tour dates align correctly when viewed on smaller devices. Each ticket button takes the user to the correct external website where they can purchase a ticket for the tour date. The hover over effect on the buttons also works correctly 
+
+*Index.html#Contact*
+The signup form works as expected. If the user click on submit with no input an error message will be displayed. A correct email format must be entered and when correctly entered a response is generated when the user clicks the submit button.
+
+*Index.html#Footer*
+The social media links work as expected when the user clicks on each button they are taken to an external webpage of the DJ's social media account page. The hover over effect also works correctly the transparent background animates to a red colour when the user mouses over each button. A media query is used to display the social media buttons to the left of the screen on smaller devices as this is more visually appealing.
+
+*Problems/Bugs:*
+When tested on iPad there is a small white line appearing under the footer and also between the 'tour' and 'contact' section background images. This only appears when testing on chrome developer but does not show on Internet Explorer using responsinator.
+When tested on Galaxy S5 & iPhone not all tour dates are immediately visiable, the user would need to scroll down to view all the dates. Also seen for the 'video' & 'contact' section where vertical scrolling is needed.
+When the 'enquiry' button is clicked the modal that opens causes the navbar to move to the right of the screen over the scrollbar, but this re-sets when the enquiry form is closed. This does not show on iPhone 5/SE or Galaxy S5 but can be seen on larger devices iPhone 6/7 and iPad.
+
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
